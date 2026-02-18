@@ -78,31 +78,6 @@ I'm a **Cloud & GenAI Engineer** with a passion for building intelligent and sca
 
 ---
 
-## 🚀 Areas of Expertise
-
-### ☁️ Cloud Computing
-- AWS Infrastructure & Services
-- Cloud Architecture & Design
-- Serverless Computing
-- Cloud Database Solutions
-
-### 🤖 Generative AI
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- LangChain Framework
-- Vector Databases (ChromaDB)
-- AI Application Development
-
-### 💡 Full-Stack Development
-- Frontend: React.js
-- Backend: Node.js, Express.js, FastAPI
-- Databases: MongoDB, Firebase, ChromaDB
-- RESTful API Development
-
-### 🧩 Data Structures & Algorithms
-- Proficient in Java for DSA
-- Regular competitive programming practice
-- Strong problem-solving skills
 
 ---
 
