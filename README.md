@@ -55,8 +55,8 @@ I'm a **Cloud & GenAI Engineer** with a passion for building intelligent and sca
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darshilkothiya&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshilkothiya&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=DarshilKothiya&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarshilKothiya&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165">
 </div>
 
 <div align="center">
