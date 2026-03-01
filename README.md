@@ -60,7 +60,7 @@ I'm a **Cloud & GenAI Engineer** with a passion for building intelligent and sca
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darshilkothiya&theme=default&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DarshilKothiya&theme=default&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
