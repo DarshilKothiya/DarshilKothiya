@@ -65,6 +65,18 @@ I'm a **Cloud & GenAI Engineer** with a passion for building intelligent and sca
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DarshilKothiya/DarshilKothiya/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DarshilKothiya/DarshilKothiya/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/DarshilKothiya/DarshilKothiya/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+---
+
 ## 💻 Coding Profiles
 
 <div align="center">
@@ -78,19 +90,10 @@ I'm a **Cloud & GenAI Engineer** with a passion for building intelligent and sca
 
 ---
 
-
----
-
 ## 🏆 AWS Certifications
 
 <div align="center">
   <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certification"/>
-  
-  <!-- Uncomment and add your actual AWS certifications -->
-  <!-- 
-  <img src="https://img.shields.io/badge/AWS-Solutions_Architect-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS SAA"/>
-  <img src="https://img.shields.io/badge/AWS-Developer_Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Developer"/>
-  -->
 </div>
 
 ---
