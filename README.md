@@ -54,24 +54,21 @@ I'm a **Cloud & GenAI Engineer** with a passion for building intelligent and sca
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DarshilKothiya&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarshilKothiya&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165">
-</div>
+
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DarshilKothiya&theme=default&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=DarshilKothiya&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 🟢 GitHub Contribution Activity
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DarshilKothiya/DarshilKothiya/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DarshilKothiya/DarshilKothiya/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/DarshilKothiya/DarshilKothiya/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Activity" src="https://raw.githubusercontent.com/DarshilKothiya/DarshilKothiya/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
@@ -80,10 +77,13 @@ I'm a **Cloud & GenAI Engineer** with a passion for building intelligent and sca
 ## 💻 Coding Profiles
 
 <div align="center">
-  
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Darshil_Kothiya/)
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Darshil_Kothiya?theme=light&font=Ubuntu&ext=heatmap)](https://leetcode.com/u/Darshil_Kothiya/)
 
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Darshil_Kothiya/)
+
+</div>
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Darshil_Kothiya?theme=dark&font=Ubuntu&ext=heatmap" alt="LeetCode Stats" />
 </div>
 
 **Consistent Problem Solver** - Practicing DSA daily in Java to sharpen my algorithmic thinking and coding skills.
